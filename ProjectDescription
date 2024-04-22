@@ -1,0 +1,9 @@
+AquaWatch
+we are  required to do the following 
+1) recive three signal -B1(soil humidity sensor)	|
+		                   -B2(soil humidity sensor)	|  -------> this sensor tells us 
+                    					                                if the soil is dry or
+                    					                                or humid
+		                    -A0(water level sensor)	| --------> this sensor measures
+					                                                  the level of the fallen 
+					                                                  rain
